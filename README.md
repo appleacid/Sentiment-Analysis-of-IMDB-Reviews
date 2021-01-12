@@ -1,2 +1,3 @@
 # Sentiment-Analysis-of-IMDB-Reviews
 Sentiment Analysis of IMDB Reviews
+This project is to conduct a sentiment analysis for the online review data in the text format. It contains 25000 reviews that are labeled as positive and 25000 reviews that are labeled as negative. The dataset describe the online movie review forum imdb and use a criteria of any star review that has 7 or more stars is marked as positive and any reviews that receive 4 or less than 4 reviews are marked as negative. Those are reviewed are polarized reviews, this project is not dealing with neutral reviews. The outline for this project is to use logistical regression classifier and deep learning model LSTM to build a model which can predict the attitude of the review by the text content.  
